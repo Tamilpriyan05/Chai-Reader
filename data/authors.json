@@ -3,64 +3,88 @@
     "id": "auth-1",
     "slug": "jk-rowling",
     "name": "J.K Rowling",
-    "image": "https://placehold.co/400x400/2b2440/ffffff?text=J.K",
+    "image": "/images/browser/author/jkroweling.png",
     "bio": "British author best known for creating the Harry Potter series, one of the most popular and influential fantasy stories in the world.",
-    "tags": ["Classic", "Books to read", "Historical Fiction", "Historical Fiction", "Historical Fiction"]
+    "tags": [
+      "Classic",
+      "Books to read",
+      "Historical Fiction",
+      "Historical Fiction",
+      "Historical Fiction"
+    ]
   },
   {
     "id": "auth-2",
     "slug": "chetan-bhagat",
     "name": "Chetan Bhagat",
-    "image": "https://placehold.co/400x400/8a5a44/ffffff?text=CB",
+    "image": "/images/browser/author/authortwo.png",
     "bio": "Indian author and columnist known for commercial fiction that speaks to young, urban India.",
-    "tags": ["Business", "Fiction"]
+    "tags": [
+      "Business",
+      "Fiction"
+    ]
   },
   {
     "id": "auth-3",
     "slug": "arundhati-roy",
     "name": "Arundhati Roy",
-    "image": "https://placehold.co/400x400/435a6b/ffffff?text=AR",
+    "image": "/images/browser/author/authorthree.png",
     "bio": "Indian author celebrated for her lyrical, socially engaged literary fiction and essays.",
-    "tags": ["Classics", "Fiction"]
+    "tags": [
+      "Classics",
+      "Fiction"
+    ]
   },
   {
     "id": "auth-4",
     "slug": "ashwin-sanghi",
-    "name": "Ashwin Sanghi",
-    "image": "https://placehold.co/400x400/6b4e3d/ffffff?text=AS",
-    "bio": "Indian thriller writer blending mythology, history, and contemporary intrigue.",
-    "tags": ["Thriller", "Mythology"]
+    "name": "Sun Tzu",
+    "image": "/images/browser/author/authorfout.png",
+    "bio": "Ancient Chinese military strategist and author of The Art of War, one of the most influential treatises on strategy ever written.",
+    "tags": [
+      "Thriller",
+      "Mythology"
+    ]
   },
   {
     "id": "auth-5",
     "slug": "morgan-housel",
     "name": "Morgan Housel",
-    "image": "https://placehold.co/400x400/3d5a4a/ffffff?text=MH",
+    "image": "/images/browser/author/authorfive.png",
     "bio": "Financial writer and partner at The Collaborative Fund, known for behavioral finance writing.",
-    "tags": ["Business", "Self help"]
+    "tags": [
+      "Business",
+      "Self help"
+    ]
   },
   {
     "id": "auth-6",
     "slug": "william-shakespeare",
     "name": "William Shakespeare",
-    "image": "https://placehold.co/400x400/4a4a4a/ffffff?text=WS",
+    "image": "/images/browser/author/jkroweling.png",
     "bio": "English playwright and poet, widely regarded as the greatest writer in the English language.",
-    "tags": ["Classics"]
+    "tags": [
+      "Classics"
+    ]
   },
   {
     "id": "auth-7",
     "slug": "mark-twain",
     "name": "Mark Twain",
-    "image": "https://placehold.co/400x400/755c3b/ffffff?text=MT",
+    "image": "/images/browser/author/jkroweling.png",
     "bio": "American writer, humorist, and author of The Adventures of Tom Sawyer.",
-    "tags": ["Classics"]
+    "tags": [
+      "Classics"
+    ]
   },
   {
     "id": "auth-8",
     "slug": "george-bellairs",
     "name": "George Bellairs",
-    "image": "https://placehold.co/400x400/5b3a4a/ffffff?text=GB",
+    "image": "/images/browser/author/jkroweling.png",
     "bio": "Pen name of British crime novelist Harold Blundell, known for classic detective fiction.",
-    "tags": ["Crime Fiction"]
+    "tags": [
+      "Crime Fiction"
+    ]
   }
 ]

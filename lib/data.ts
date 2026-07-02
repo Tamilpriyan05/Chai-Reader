@@ -30,7 +30,15 @@ export function getBookBySlug(slug: string): Book | undefined {
 }
 
 export function getBooksByCategory(category: string, limit?: number): Book[] {
-  const filtered = books.filter((book) => book.categories.includes(category));
+  const filtered = books.filter(
+    (book) =>
+      book.categories.includes(category) ||
+      book.tags.some(
+        (tag) =>
+          tag.toLowerCase().replace(/[^a-z0-9]/g, "") ===
+          category.toLowerCase().replace(/[^a-z0-9]/g, "")
+      )
+  );
   return typeof limit === "number" ? filtered.slice(0, limit) : filtered;
 }
 

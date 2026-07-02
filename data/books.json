@@ -5,31 +5,48 @@
     "title": "Death before Breakfast",
     "authorSlug": "jk-rowling",
     "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/7a1f3d/ffffff?text=Death+Before+Breakfast",
+    "coverImage": "/images/browser/newArrivals/death.png",
     "shortDescription": "A clash of armies, a battle of gods, and the rage of a hero fuel this epic tale of war.",
     "description": "A clash of armies, a battle of gods, and the rage of a hero fuel this epic tale of war. When a leader's pride ignites a conflict, the greatest warrior withdraws, leaving his comrades to face devastating losses. Explore a world of mighty heroes and bitter rivalries, where courage and honor are tested by fate. Witness the brutal dance of battle, the clash of bronze, and the complex ties that bind even enemies. Can a prophecy alter the course of war, or is destiny set in stone?",
-    "tags": ["Classic", "Books to read", "Historical Fiction", "Historical Fiction", "Historical Fiction"],
+    "tags": [
+      "Classic",
+      "Books to read",
+      "Historical Fiction",
+      "Historical Fiction",
+      "Historical Fiction"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "21 December 2025",
     "language": "English",
     "printLength": "160 pages",
-    "categories": ["newArrivals", "bestSellers", "authorNewReleases"]
+    "categories": [
+      "newArrivals",
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-2",
     "slug": "the-past-is-rising",
-    "title": "The Past is Rising",
-    "authorSlug": "jk-rowling",
-    "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/1c2b45/ffffff?text=The+Past+Is+Rising",
+    "title": "Memory",
+    "authorSlug": "angelina-aludo",
+    "authorName": "Angelina Aludo",
+    "coverImage": "/images/browser/newArrivals/memory.png",
     "shortDescription": "A haunting story about memories that refuse to stay buried.",
     "description": "A haunting story about memories that refuse to stay buried. As old secrets resurface, a family must confront the truths they have spent a lifetime avoiding.",
-    "tags": ["Mystery", "Family Drama"],
+    "tags": [
+      "Mystery",
+      "Family Drama"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "10 January 2026",
     "language": "English",
     "printLength": "210 pages",
-    "categories": ["crimeFiction", "related"]
+    "categories": [
+      "newArrivals",
+      "bestSellers",
+      "crimeFiction",
+      "related"
+    ]
   },
   {
     "id": "book-3",
@@ -37,15 +54,21 @@
     "title": "The Casual Vacancy",
     "authorSlug": "jk-rowling",
     "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/3a5f7d/ffffff?text=The+Casual+Vacancy",
+    "coverImage": "/images/browser/newArrivals/holmes.png",
     "shortDescription": "A small English town is thrown into turmoil after a sudden death.",
     "description": "A small English town is thrown into turmoil after a sudden death on the parish council leaves a vacant seat, exposing rivalries beneath a peaceful surface.",
-    "tags": ["Classic", "Fiction"],
+    "tags": [
+      "Classic",
+      "Fiction"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "27 September 2012",
     "language": "English",
     "printLength": "512 pages",
-    "categories": ["newArrivals", "authorNewReleases"]
+    "categories": [
+      "newArrivals",
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-4",
@@ -53,15 +76,21 @@
     "title": "The Hogwarts Library Collection",
     "authorSlug": "jk-rowling",
     "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/d4a72c/1a1a1a?text=Hogwarts+Library",
+    "coverImage": "/images/browser/newArrivals/death.png",
     "shortDescription": "A boxed collection of companion texts from the wizarding world.",
     "description": "A boxed collection of companion texts from the wizarding world, gathering the classroom texts referenced throughout the Harry Potter series.",
-    "tags": ["Classic", "Fantasy"],
+    "tags": [
+      "Classic",
+      "Fantasy"
+    ],
     "publisher": "Bloomsbury",
     "publicationDate": "01 October 2017",
     "language": "English",
     "printLength": "256 pages",
-    "categories": ["bestSellers", "authorNewReleases"]
+    "categories": [
+      "newArrivals",
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-5",
@@ -69,15 +98,21 @@
     "title": "Fantastic Beasts: The Original Screenplay",
     "authorSlug": "jk-rowling",
     "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/1a1a2e/d4a72c?text=Fantastic+Beasts",
+    "coverImage": "/images/browser/newArrivals/haper.png",
     "shortDescription": "The complete original screenplay from the wizarding world film.",
     "description": "The complete original screenplay from the wizarding world film, including scenes and dialogue not seen in the final cut.",
-    "tags": ["Fantasy", "Screenplay"],
+    "tags": [
+      "Fantasy",
+      "Screenplay"
+    ],
     "publisher": "Little, Brown",
     "publicationDate": "18 November 2016",
     "language": "English",
     "printLength": "300 pages",
-    "categories": ["newArrivals", "authorNewReleases"]
+    "categories": [
+      "newArrivals",
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-6",
@@ -85,15 +120,21 @@
     "title": "Harry Potter and the Sorcerer's Stone",
     "authorSlug": "jk-rowling",
     "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/6b2d2d/f2d38a?text=Sorcerer%27s+Stone",
+    "coverImage": "/images/browser/nonfic/nonficthree.png",
     "shortDescription": "A boy discovers he is a wizard on his eleventh birthday.",
     "description": "A boy discovers he is a wizard on his eleventh birthday and is whisked away to a school of magic, where an old evil is stirring once again.",
-    "tags": ["Fantasy", "Classic"],
+    "tags": [
+      "Fantasy",
+      "Classic"
+    ],
     "publisher": "Bloomsbury",
     "publicationDate": "26 June 1997",
     "language": "English",
     "printLength": "223 pages",
-    "categories": ["bestSellers", "authorNewReleases", "classics"]
+    "categories": [
+      "authorNewReleases",
+      "classics"
+    ]
   },
   {
     "id": "book-7",
@@ -101,15 +142,21 @@
     "title": "Harry Potter and the Prisoner of Azkaban",
     "authorSlug": "jk-rowling",
     "authorName": "J.K Rowling",
-    "coverImage": "https://placehold.co/400x600/16324f/dfe8ef?text=Prisoner+of+Azkaban",
+    "coverImage": "/images/browser/newArrivals/harrypotter.png",
     "shortDescription": "A dangerous convict escapes, and Harry learns of a hidden family past.",
     "description": "A dangerous convict escapes Azkaban prison, and as the wizarding world panics, Harry begins to learn the truth about his own family history.",
-    "tags": ["Fantasy", "Classic"],
+    "tags": [
+      "Fantasy",
+      "Classic"
+    ],
     "publisher": "Bloomsbury",
     "publicationDate": "08 July 1999",
     "language": "English",
     "printLength": "317 pages",
-    "categories": ["newArrivals", "authorNewReleases"]
+    "categories": [
+      "newArrivals",
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-8",
@@ -120,12 +167,17 @@
     "coverImage": "https://placehold.co/400x600/1f3d2e/d7e6bf?text=Grindelwald",
     "shortDescription": "The complete screenplay for the second Fantastic Beasts film.",
     "description": "The complete screenplay for the second Fantastic Beasts film, following the escalating war between Grindelwald and those who oppose him.",
-    "tags": ["Fantasy", "Screenplay"],
+    "tags": [
+      "Fantasy",
+      "Screenplay"
+    ],
     "publisher": "Little, Brown",
     "publicationDate": "16 November 2018",
     "language": "English",
     "printLength": "290 pages",
-    "categories": ["authorNewReleases"]
+    "categories": [
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-9",
@@ -136,12 +188,16 @@
     "coverImage": "https://placehold.co/400x600/174a52/e8f3ea?text=The+Ickabog",
     "shortDescription": "A fairy tale about a mythical monster and a kingdom built on lies.",
     "description": "A fairy tale about a mythical monster said to roam a distant land, and the kingdom that lets fear reshape the truth.",
-    "tags": ["Fantasy", "Kids"],
+    "tags": [
+      "Fantasy"
+    ],
     "publisher": "Little, Brown",
     "publicationDate": "10 November 2020",
     "language": "English",
     "printLength": "304 pages",
-    "categories": ["authorNewReleases", "kids"]
+    "categories": [
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-10",
@@ -152,12 +208,17 @@
     "coverImage": "https://placehold.co/400x600/0f2a3d/9fd8e8?text=Philosopher%27s+Stone",
     "shortDescription": "The illustrated edition of the story that started it all.",
     "description": "The illustrated edition of the story that started it all, bringing Hogwarts to life in full color for a new generation of readers.",
-    "tags": ["Fantasy", "Classic"],
+    "tags": [
+      "Fantasy",
+      "Classic"
+    ],
     "publisher": "Bloomsbury",
     "publicationDate": "06 October 2015",
     "language": "English",
     "printLength": "256 pages",
-    "categories": ["authorNewReleases"]
+    "categories": [
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-11",
@@ -168,12 +229,17 @@
     "coverImage": "https://placehold.co/400x600/1b3a1f/c9e6bf?text=Chamber+of+Secrets",
     "shortDescription": "Something has been petrifying students, and Harry must find out who.",
     "description": "Something has been petrifying students at Hogwarts, and whispers of an ancient chamber grow louder with every attack.",
-    "tags": ["Fantasy", "Classic"],
+    "tags": [
+      "Fantasy",
+      "Classic"
+    ],
     "publisher": "Bloomsbury",
     "publicationDate": "02 July 1998",
     "language": "English",
     "printLength": "251 pages",
-    "categories": ["authorNewReleases"]
+    "categories": [
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-12",
@@ -184,76 +250,103 @@
     "coverImage": "https://placehold.co/400x600/6b1f4a/f2c9e0?text=Order+of+the+Phoenix",
     "shortDescription": "A secret resistance forms as the Ministry denies a growing threat.",
     "description": "A secret resistance forms as the Ministry of Magic denies a growing threat, and Harry must learn to lead in the shadows.",
-    "tags": ["Fantasy", "Classic"],
+    "tags": [
+      "Fantasy",
+      "Classic"
+    ],
     "publisher": "Bloomsbury",
     "publicationDate": "21 June 2003",
     "language": "English",
     "printLength": "766 pages",
-    "categories": ["authorNewReleases"]
+    "categories": [
+      "authorNewReleases"
+    ]
   },
   {
     "id": "book-13",
     "slug": "million-to-one",
     "title": "A Million to One",
-    "authorSlug": "chetan-bhagat",
-    "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/141414/ffffff?text=A+Million+to+One",
+    "authorSlug": "tony-faggioli",
+    "authorName": "Tony Faggioli",
+    "coverImage": "/images/browser/bestSeller/million.png",
     "shortDescription": "An underdog's gamble that changes everything.",
     "description": "An underdog's high-stakes gamble sets off a chain of events that changes the course of an entire family's future.",
-    "tags": ["Fiction", "Drama"],
+    "tags": [
+      "Fiction",
+      "Drama"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "14 February 2024",
     "language": "English",
     "printLength": "288 pages",
-    "categories": ["bestSellers"]
+    "categories": [
+      "bestSellers"
+    ]
   },
   {
     "id": "book-14",
     "slug": "richest-man-in-babylon",
     "title": "The Richest Man in Babylon",
-    "authorSlug": "morgan-housel",
-    "authorName": "Morgan Housel",
-    "coverImage": "https://placehold.co/400x600/8a6d1f/ffffff?text=Richest+Man+in+Babylon",
+    "authorSlug": "george-s-clason",
+    "authorName": "George S. Clason",
+    "coverImage": "/images/browser/bestSeller/richestman.png",
     "shortDescription": "Timeless money lessons told through ancient parables.",
     "description": "Timeless money lessons told through ancient Babylonian parables about saving, investing, and building lasting wealth.",
-    "tags": ["Business", "Self help"],
+    "tags": [
+      "Business",
+      ""
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "01 March 2020",
     "language": "English",
     "printLength": "192 pages",
-    "categories": ["bestSellers", "business"]
+    "categories": [
+      "bestSellers",
+      "business"
+    ]
   },
   {
     "id": "book-15",
     "slug": "letting-go-of-the-throne",
-    "title": "Letting Go of the Throne",
-    "authorSlug": "arundhati-roy",
-    "authorName": "Arundhati Roy",
-    "coverImage": "https://placehold.co/400x600/4a1f6b/ffffff?text=Letting+Go",
+    "title": "I Know How This Story Ends",
+    "authorSlug": "nate-robb",
+    "authorName": "Nate Robb",
+    "coverImage": "/images/browser/bestSeller/storyend.png",
     "shortDescription": "A meditation on power, legacy, and what we leave behind.",
     "description": "A quiet, lyrical meditation on power, legacy, and what a family leaves behind when its throne finally falls.",
-    "tags": ["Classics", "Fiction"],
+    "tags": [
+      "Classics",
+      "Fiction"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "05 May 2019",
     "language": "English",
     "printLength": "340 pages",
-    "categories": ["bestSellers"]
+    "categories": [
+      "bestSellers"
+    ]
   },
   {
     "id": "book-16",
     "slug": "a-girl-named-harper",
     "title": "A Girl Named Harper",
-    "authorSlug": "ashwin-sanghi",
-    "authorName": "Ashwin Sanghi",
-    "coverImage": "https://placehold.co/400x600/2d5c4a/ffffff?text=A+Girl+Named+Harper",
+    "authorSlug": "kara-jefferies",
+    "authorName": "Kara Jefferies",
+    "coverImage": "/images/browser/newArrivals/haper.png",
     "shortDescription": "A coming-of-age mystery set across two continents.",
     "description": "A coming-of-age mystery set across two continents, following a girl piecing together a family secret decades in the making.",
-    "tags": ["Mystery", "Fiction"],
+    "tags": [
+      "Mystery",
+      "Fiction"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "22 August 2023",
     "language": "English",
     "printLength": "356 pages",
-    "categories": ["bestSellers", "classics"]
+    "categories": [
+      "bestSellers",
+      "classics"
+    ]
   },
   {
     "id": "book-17",
@@ -261,47 +354,71 @@
     "title": "The Adventures of Tom Sawyer",
     "authorSlug": "mark-twain",
     "authorName": "Mark Twain",
-    "coverImage": "https://placehold.co/400x600/5c3d1f/ffffff?text=Tom+Sawyer",
+    "coverImage": "/images/browser/speakwithauthor/tomsa.png",
     "shortDescription": "A mischievous boy's adventures along the Mississippi River.",
     "description": "A mischievous boy's adventures along the Mississippi River, full of schemes, friendship, and small-town charm.",
-    "tags": ["Classics", "Adventure"],
+    "tags": [
+      "Classics",
+      "Adventure"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "01 January 1876",
     "language": "English",
     "printLength": "274 pages",
-    "categories": ["speakWithAuthors", "classics"]
+    "categories": [
+      "speakWithAuthors",
+      "classics"
+    ],
+    "authorImage": "/images/browser/speakwithauthor/tomsaweyer.png",
+    "bookImage": "/images/browser/speakwithauthor/tomsa.png"
   },
   {
     "id": "book-18",
     "slug": "the-art-of-war",
     "title": "The Art of War",
     "authorSlug": "ashwin-sanghi",
-    "authorName": "Ashwin Sanghi",
-    "coverImage": "https://placehold.co/400x600/b8860b/1a1a1a?text=The+Art+of+War",
+    "authorName": "Sun Tzu",
+    "coverImage": "/images/browser/speakwithauthor/artofway.png",
     "shortDescription": "Ancient strategy that still shapes modern thinking.",
     "description": "Ancient military strategy that continues to shape modern thinking on leadership, competition, and conflict.",
-    "tags": ["Classics", "Strategy"],
+    "tags": [
+      "Classics",
+      "Strategy"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "01 January 500",
     "language": "English",
     "printLength": "170 pages",
-    "categories": ["speakWithAuthors", "classics"]
+    "categories": [
+      "speakWithAuthors",
+      "classics"
+    ],
+    "authorImage": "/images/browser/speakwithauthor/arofway.png",
+    "bookImage": "/images/browser/speakwithauthor/artofway.png"
   },
   {
     "id": "book-19",
     "slug": "a-midsummer-play",
-    "title": "The Chandos Tom Sawyer",
+    "title": "Thirukkural",
     "authorSlug": "william-shakespeare",
-    "authorName": "William Shakespeare",
-    "coverImage": "https://placehold.co/400x600/8b3a3a/f2e3c9?text=Shakespeare",
-    "shortDescription": "A classic tale of mistaken identity and love.",
-    "description": "A classic tale of mistaken identity, love, and comic misadventure set across a single midsummer night.",
-    "tags": ["Classics", "Drama"],
+    "authorName": "Thiruvalluvar",
+    "coverImage": "/images/browser/speakwithauthor/thorubook.png",
+    "shortDescription": "A timeless collection of Tamil couplets on ethics, politics, and love.",
+    "description": "A timeless collection of Tamil couplets on ethics, politics, and love, revered across the world as one of the greatest works in Tamil literature.",
+    "tags": [
+      "Classics",
+      "Tamil"
+    ],
     "publisher": "Ailaysa",
-    "publicationDate": "01 January 1600",
-    "language": "English",
-    "printLength": "120 pages",
-    "categories": ["speakWithAuthors", "classics"]
+    "publicationDate": "01 January 100",
+    "language": "Tamil",
+    "printLength": "320 pages",
+    "categories": [
+      "speakWithAuthors",
+      "classics"
+    ],
+    "authorImage": "/images/browser/speakwithauthor/thiru.png",
+    "bookImage": "/images/browser/speakwithauthor/thorubook.png"
   },
   {
     "id": "book-20",
@@ -309,15 +426,84 @@
     "title": "The Past is Rising",
     "authorSlug": "george-bellairs",
     "authorName": "George Bellairs",
-    "coverImage": "https://placehold.co/400x600/1c2b45/ffffff?text=The+Past+Is+Rising",
+    "coverImage": "/images/browser/crime/crimetwo.png",
     "shortDescription": "Old secrets surface when a body is found in a quiet village.",
     "description": "Old secrets surface when a body is found in a quiet village, and a detective must untangle decades of silence.",
-    "tags": ["Crime Fiction", "Mystery"],
+    "tags": [
+      "Crime Fiction",
+      "Mystery"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "14 March 2022",
     "language": "English",
     "printLength": "240 pages",
-    "categories": ["crimeFiction", "related"]
+    "categories": [
+      "crimeFiction",
+      "related"
+    ]
+  },
+  {
+    "id": "book-20",
+    "slug": "past-is-rising-2",
+    "title": "The Past is Rising",
+    "authorSlug": "george-bellairs",
+    "authorName": "George Bellairs",
+    "coverImage": "/images/browser/crime/crimethree.png",
+    "shortDescription": "Old secrets surface when a body is found in a quiet village.",
+    "description": "Old secrets surface when a body is found in a quiet village, and a detective must untangle decades of silence.",
+    "tags": [
+      "Crime Fiction",
+      "Mystery"
+    ],
+    "publisher": "Ailaysa",
+    "publicationDate": "14 March 2022",
+    "language": "English",
+    "printLength": "240 pages",
+    "categories": [
+      "crimeFiction"
+    ]
+  },
+  {
+    "id": "book-20",
+    "slug": "past-is-rising-2",
+    "title": "The Past is Rising",
+    "authorSlug": "george-bellairs",
+    "authorName": "George Bellairs",
+    "coverImage": "/images/browser/crime/crimefive.png",
+    "shortDescription": "Old secrets surface when a body is found in a quiet village.",
+    "description": "Old secrets surface when a body is found in a quiet village, and a detective must untangle decades of silence.",
+    "tags": [
+      "Crime Fiction",
+      "Mystery"
+    ],
+    "publisher": "Ailaysa",
+    "publicationDate": "14 March 2022",
+    "language": "English",
+    "printLength": "240 pages",
+    "categories": [
+      "crimeFiction"
+    ]
+  },
+  {
+    "id": "book-20",
+    "slug": "past-is-rising-2",
+    "title": "The Past is Rising",
+    "authorSlug": "george-bellairs",
+    "authorName": "George Bellairs",
+    "coverImage": "/images/browser/crime/crimefour.png",
+    "shortDescription": "Old secrets surface when a body is found in a quiet village.",
+    "description": "Old secrets surface when a body is found in a quiet village, and a detective must untangle decades of silence.",
+    "tags": [
+      "Crime Fiction",
+      "Mystery"
+    ],
+    "publisher": "Ailaysa",
+    "publicationDate": "14 March 2022",
+    "language": "English",
+    "printLength": "240 pages",
+    "categories": [
+      "crimeFiction"
+    ]
   },
   {
     "id": "book-21",
@@ -325,15 +511,20 @@
     "title": "What Is This Grief",
     "authorSlug": "arundhati-roy",
     "authorName": "Arundhati Roy",
-    "coverImage": "https://placehold.co/400x600/2e2e4a/ffffff?text=What+Is+This+Grief",
+    "coverImage": "/images/browser/nonfic/nonficone.png",
     "shortDescription": "A raw, honest exploration of loss and healing.",
     "description": "A raw, honest exploration of loss, memory, and the slow, uneven work of healing.",
-    "tags": ["Non Fiction", "Memoir"],
+    "tags": [
+      "Non Fiction",
+      "Memoir"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "09 September 2021",
     "language": "English",
     "printLength": "212 pages",
-    "categories": ["nonFiction"]
+    "categories": [
+      "nonFiction"
+    ]
   },
   {
     "id": "book-22",
@@ -341,15 +532,21 @@
     "title": "Why Women Don't Talk Money",
     "authorSlug": "morgan-housel",
     "authorName": "Morgan Housel",
-    "coverImage": "https://placehold.co/400x600/c0392b/ffffff?text=Why+Women+Don%27t+Talk+Money",
+    "coverImage": "/images/browser/nonfic/nonfictwo.png",
     "shortDescription": "Unpacking the silence around women and personal finance.",
     "description": "Unpacking the cultural silence around women and personal finance, and what changes when the conversation opens up.",
-    "tags": ["Non Fiction", "Business"],
+    "tags": [
+      "Non Fiction",
+      "Business"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "03 March 2023",
     "language": "English",
     "printLength": "224 pages",
-    "categories": ["nonFiction", "business"]
+    "categories": [
+      "nonFiction",
+      "business"
+    ]
   },
   {
     "id": "book-23",
@@ -357,15 +554,20 @@
     "title": "The Rules We Live By",
     "authorSlug": "chetan-bhagat",
     "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/1a1a1a/ffffff?text=The+Rules+We+Live+By",
+    "coverImage": "/images/browser/nonfic/nonficthree.png",
     "shortDescription": "An honest look at the unwritten rules that shape our choices.",
     "description": "An honest, funny look at the unwritten rules that quietly shape our biggest life choices.",
-    "tags": ["Non Fiction", "Fiction"],
+    "tags": [
+      "Non Fiction",
+      "Fiction"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "12 December 2022",
     "language": "English",
     "printLength": "260 pages",
-    "categories": ["nonFiction"]
+    "categories": [
+      "nonFiction"
+    ]
   },
   {
     "id": "book-24",
@@ -373,15 +575,41 @@
     "title": "Sleeping Volcano",
     "authorSlug": "ashwin-sanghi",
     "authorName": "Ashwin Sanghi",
-    "coverImage": "https://placehold.co/400x600/34495e/ffffff?text=Sleeping+Volcano",
+    "coverImage": "/images/browser/nonfic/nonficfour.png",
     "shortDescription": "A dormant threat stirs beneath a peaceful nation.",
     "description": "A dormant threat stirs beneath a peaceful nation, testing loyalty, science, and survival.",
-    "tags": ["Non Fiction", "Thriller"],
+    "tags": [
+      "Non Fiction",
+      "Thriller"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "07 July 2020",
     "language": "English",
     "printLength": "310 pages",
-    "categories": ["nonFiction"]
+    "categories": [
+      "nonFiction"
+    ]
+  },
+  {
+    "id": "book-245",
+    "slug": "sleeping-volcano",
+    "title": "Sleeping Volcano",
+    "authorSlug": "ashwin-sanghi",
+    "authorName": "Ashwin Sanghi",
+    "coverImage": "/images/browser/nonfic/nonficfive.png",
+    "shortDescription": "A dormant threat stirs beneath a peaceful nation.",
+    "description": "A dormant threat stirs beneath a peaceful nation, testing loyalty, science, and survival.",
+    "tags": [
+      "Non Fiction",
+      "Thriller"
+    ],
+    "publisher": "Ailaysa",
+    "publicationDate": "07 July 2020",
+    "language": "English",
+    "printLength": "310 pages",
+    "categories": [
+      "nonFiction"
+    ]
   },
   {
     "id": "book-25",
@@ -389,15 +617,19 @@
     "title": "Indian Polity",
     "authorSlug": "chetan-bhagat",
     "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/8b1a1a/ffffff?text=Indian+Polity",
+    "coverImage": "/images/browser/acadmeics/acadmeicsone.png",
     "shortDescription": "A comprehensive guide to India's constitution and governance.",
     "description": "A comprehensive, exam-ready guide to India's constitution, governance, and political institutions.",
-    "tags": ["Academics"],
+    "tags": [
+      "Academics"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "15 January 2021",
     "language": "English",
     "printLength": "480 pages",
-    "categories": ["academics"]
+    "categories": [
+      "academics"
+    ]
   },
   {
     "id": "book-26",
@@ -405,15 +637,19 @@
     "title": "UPSC Complete Guide",
     "authorSlug": "chetan-bhagat",
     "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/e08a1e/1a1a1a?text=UPSC",
+    "coverImage": "/images/browser/acadmeics/acadmeicstwo.png",
     "shortDescription": "A structured roadmap for civil services aspirants.",
     "description": "A structured roadmap for civil services aspirants, covering prelims, mains, and interview preparation.",
-    "tags": ["Academics"],
+    "tags": [
+      "Academics"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "20 February 2022",
     "language": "English",
     "printLength": "520 pages",
-    "categories": ["academics"]
+    "categories": [
+      "academics"
+    ]
   },
   {
     "id": "book-27",
@@ -421,15 +657,19 @@
     "title": "Physics Fundamentals",
     "authorSlug": "morgan-housel",
     "authorName": "Morgan Housel",
-    "coverImage": "https://placehold.co/400x600/1f5c8a/ffffff?text=Physics",
+    "coverImage": "/images/browser/acadmeics/acadmeicsthree.png",
     "shortDescription": "Core physics concepts explained simply.",
     "description": "Core physics concepts explained simply, with worked examples for high school and early college readers.",
-    "tags": ["Academics"],
+    "tags": [
+      "Academics"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "11 November 2019",
     "language": "English",
     "printLength": "398 pages",
-    "categories": ["academics"]
+    "categories": [
+      "academics"
+    ]
   },
   {
     "id": "book-28",
@@ -437,15 +677,39 @@
     "title": "Learn English in 30 Days",
     "authorSlug": "chetan-bhagat",
     "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/1e824c/ffffff?text=Learn+English",
+    "coverImage": "/images/browser/acadmeics/acadmeicsfour.png",
     "shortDescription": "A practical, everyday approach to English fluency.",
     "description": "A practical, everyday approach to English fluency, built around real conversations rather than grammar drills.",
-    "tags": ["Academics"],
+    "tags": [
+      "Academics"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "04 April 2018",
     "language": "English",
     "printLength": "210 pages",
-    "categories": ["academics"]
+    "categories": [
+      "academics"
+    ]
+  },
+  {
+    "id": "book-258",
+    "slug": "learn-english-30-days",
+    "title": "Learn English in 30 Days",
+    "authorSlug": "chetan-bhagat",
+    "authorName": "Chetan Bhagat",
+    "coverImage": "/images/browser/acadmeics/acadmeicsfive.png",
+    "shortDescription": "A practical, everyday approach to English fluency.",
+    "description": "A practical, everyday approach to English fluency, built around real conversations rather than grammar drills.",
+    "tags": [
+      "Academics"
+    ],
+    "publisher": "Ailaysa",
+    "publicationDate": "04 April 2018",
+    "language": "English",
+    "printLength": "210 pages",
+    "categories": [
+      "academics"
+    ]
   },
   {
     "id": "book-29",
@@ -453,15 +717,19 @@
     "title": "The Second Business Book",
     "authorSlug": "morgan-housel",
     "authorName": "Morgan Housel",
-    "coverImage": "https://placehold.co/400x600/2c3e50/ffffff?text=Business+Book",
+    "coverImage": "/images/browser/acadmeics/acadmeicsfour.png",
     "shortDescription": "Lessons from founders who built past their first success.",
     "description": "Lessons from founders who built past their first success, and what changed the second time around.",
-    "tags": ["Business"],
+    "tags": [
+      "Business"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "17 June 2022",
     "language": "English",
     "printLength": "296 pages",
-    "categories": ["business"]
+    "categories": [
+      "business"
+    ]
   },
   {
     "id": "book-30",
@@ -469,15 +737,19 @@
     "title": "Start Your Own Business",
     "authorSlug": "chetan-bhagat",
     "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/16a085/ffffff?text=Start+Your+Business",
+    "coverImage": "/images/browser/acadmeics/acadmeicstwo.png",
     "shortDescription": "A field guide for first-time Indian entrepreneurs.",
     "description": "A field guide for first-time Indian entrepreneurs, from registration to first revenue.",
-    "tags": ["Business"],
+    "tags": [
+      "Business"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "09 September 2021",
     "language": "English",
     "printLength": "268 pages",
-    "categories": ["business"]
+    "categories": [
+      "business"
+    ]
   },
   {
     "id": "book-31",
@@ -485,15 +757,19 @@
     "title": "Indian Business Strategy",
     "authorSlug": "ashwin-sanghi",
     "authorName": "Ashwin Sanghi",
-    "coverImage": "https://placehold.co/400x600/d35400/ffffff?text=Business+Strategy",
+    "coverImage": "/images/browser/acadmeics/acadmeicsone.png",
     "shortDescription": "How Indian companies win in competitive markets.",
     "description": "How Indian companies win in competitive markets, told through case studies across industries.",
-    "tags": ["Business"],
+    "tags": [
+      "Business"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "23 October 2020",
     "language": "English",
     "printLength": "312 pages",
-    "categories": ["business"]
+    "categories": [
+      "business"
+    ]
   },
   {
     "id": "book-32",
@@ -501,15 +777,19 @@
     "title": "Tech Dot Com",
     "authorSlug": "morgan-housel",
     "authorName": "Morgan Housel",
-    "coverImage": "https://placehold.co/400x600/6c3483/ffffff?text=Tech.com",
+    "coverImage": "/images/browser/acadmeics/acadmeicsone.png",
     "shortDescription": "The story of the internet's first great boom and bust.",
     "description": "The story of the internet's first great boom and bust, and what it still teaches builders today.",
-    "tags": ["Tech"],
+    "tags": [
+      "Tech"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "02 February 2019",
     "language": "English",
     "printLength": "288 pages",
-    "categories": ["tech"]
+    "categories": [
+      "tech"
+    ]
   },
   {
     "id": "book-33",
@@ -517,15 +797,19 @@
     "title": "Web Technology",
     "authorSlug": "chetan-bhagat",
     "authorName": "Chetan Bhagat",
-    "coverImage": "https://placehold.co/400x600/2980b9/ffffff?text=Web+Technology",
+    "coverImage": "/images/browser/nonfic/nonfictwo.png",
     "shortDescription": "A friendly introduction to how the modern web works.",
     "description": "A friendly introduction to how the modern web works, from browsers to servers to the cloud.",
-    "tags": ["Tech"],
+    "tags": [
+      "Tech"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "19 May 2021",
     "language": "English",
     "printLength": "244 pages",
-    "categories": ["tech"]
+    "categories": [
+      "tech"
+    ]
   },
   {
     "id": "book-34",
@@ -533,15 +817,19 @@
     "title": "ChatGPT for Beginners",
     "authorSlug": "morgan-housel",
     "authorName": "Morgan Housel",
-    "coverImage": "https://placehold.co/400x600/e74c3c/ffffff?text=ChatGPT",
+    "coverImage": "/images/browser/nonfic/nonficthree.png",
     "shortDescription": "A plain-language guide to getting started with AI tools.",
     "description": "A plain-language guide to getting started with AI tools, written for readers with no technical background.",
-    "tags": ["Tech"],
+    "tags": [
+      "Tech"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "01 January 2024",
     "language": "English",
     "printLength": "180 pages",
-    "categories": ["tech"]
+    "categories": [
+      "tech"
+    ]
   },
   {
     "id": "book-35",
@@ -549,15 +837,39 @@
     "title": "AI and ChatGPT in Education",
     "authorSlug": "arundhati-roy",
     "authorName": "Arundhati Roy",
-    "coverImage": "https://placehold.co/400x600/f39c12/1a1a1a?text=AI+in+Education",
+    "coverImage": "/images/browser/acadmeics/acadmeicstwo.png",
     "shortDescription": "How classrooms are adapting to generative AI.",
     "description": "How classrooms are adapting to generative AI, with practical frameworks for teachers and students.",
-    "tags": ["Tech"],
+    "tags": [
+      "Tech"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "14 August 2023",
     "language": "English",
     "printLength": "196 pages",
-    "categories": ["tech"]
+    "categories": [
+      "tech"
+    ]
+  },
+  {
+    "id": "book-35",
+    "slug": "ai-and-chatgpt-in-education",
+    "title": "AI and ChatGPT in Education",
+    "authorSlug": "arundhati-roy",
+    "authorName": "Arundhati Roy",
+    "coverImage": "/images/browser/acadmeics/acadmeicsthree.png",
+    "shortDescription": "How classrooms are adapting to generative AI.",
+    "description": "How classrooms are adapting to generative AI, with practical frameworks for teachers and students.",
+    "tags": [
+      "Tech"
+    ],
+    "publisher": "Ailaysa",
+    "publicationDate": "14 August 2023",
+    "language": "English",
+    "printLength": "196 pages",
+    "categories": [
+      "tech"
+    ]
   },
   {
     "id": "book-36",
@@ -565,15 +877,19 @@
     "title": "Tales from India",
     "authorSlug": "arundhati-roy",
     "authorName": "Arundhati Roy",
-    "coverImage": "https://placehold.co/400x600/a04000/ffffff?text=Tales+from+India",
+    "coverImage": "/images/browser/acadmeics/acadmeicsthree.png",
     "shortDescription": "A collection of folk stories passed down through generations.",
     "description": "A collection of folk stories passed down through generations, retold for modern readers.",
-    "tags": ["Classics"],
+    "tags": [
+      "Classics"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "06 June 2017",
     "language": "English",
     "printLength": "230 pages",
-    "categories": ["classics"]
+    "categories": [
+      "classics"
+    ]
   },
   {
     "id": "book-37",
@@ -581,14 +897,18 @@
     "title": "Poet Empress",
     "authorSlug": "arundhati-roy",
     "authorName": "Arundhati Roy",
-    "coverImage": "https://placehold.co/400x600/7d3c98/ffffff?text=Poet+Empress",
+    "coverImage": "/images/browser/nonfic/nonficfive.png",
     "shortDescription": "A fictionalized life of a forgotten royal poet.",
     "description": "A fictionalized life of a forgotten royal poet whose verses outlasted her empire.",
-    "tags": ["Classics"],
+    "tags": [
+      "Classics"
+    ],
     "publisher": "Ailaysa",
     "publicationDate": "25 March 2016",
     "language": "English",
     "printLength": "266 pages",
-    "categories": ["classics"]
+    "categories": [
+      "classics"
+    ]
   }
 ]

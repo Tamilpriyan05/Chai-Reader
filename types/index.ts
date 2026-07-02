@@ -13,6 +13,8 @@ export interface Book {
   language: string;
   printLength: string;
   categories: string[];
+  authorImage?: String;
+  bookImage?: String;
 }
 
 export interface Author {
@@ -35,6 +37,7 @@ export interface Review {
 export interface Genre {
   id: string;
   label: string;
+  image?: string;
 }
 
 export interface BookSectionConfig {
@@ -42,8 +45,9 @@ export interface BookSectionConfig {
   title: string;
   subtitle: string;
   category: string;
-  layout: "scroll" | "grid";
+  layout: "scroll" | "grid" | "fixed";
   cardVariant: "compact" | "wide";
+  maxCards?: number;
 }
 
 export interface HeroBannerContent {
@@ -52,6 +56,7 @@ export interface HeroBannerContent {
   description: string;
   ctaLabel: string;
   image: string;
+  bgImage: string;
 }
 
 export interface BreadcrumbItem {

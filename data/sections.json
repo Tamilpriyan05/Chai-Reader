@@ -4,8 +4,9 @@
     "title": "New Arrivals",
     "subtitle": "Trending books among readers",
     "category": "newArrivals",
-    "layout": "scroll",
-    "cardVariant": "compact"
+    "layout": "fixed",
+    "cardVariant": "compact",
+    "maxCards": 6
   },
   {
     "id": "best-sellers",
@@ -13,37 +14,49 @@
     "subtitle": "Trending books among readers",
     "category": "bestSellers",
     "layout": "scroll",
-    "cardVariant": "compact"
+    "cardVariant": "bestseller"
   },
   {
     "id": "crime-fiction",
     "title": "Crime Fiction",
     "subtitle": "Trending books among readers",
     "category": "crimeFiction",
-    "layout": "scroll",
-    "cardVariant": "compact"
+    "layout": "grid5",
+    "cardVariant": "bestseller",
+    "maxCards": 5
   },
   {
     "id": "non-fiction",
     "title": "Non Fiction Books",
     "subtitle": "Trending books among readers",
     "category": "nonFiction",
-    "layout": "scroll",
-    "cardVariant": "compact"
+    "layout": "grid5",
+    "cardVariant": "bestseller",
+    "maxCards": 5
   },
   {
     "id": "academics",
     "title": "Academics",
     "subtitle": "Trending books among readers",
     "category": "academics",
-    "layout": "scroll",
-    "cardVariant": "compact"
+    "layout": "grid5",
+    "cardVariant": "bestseller",
+    "maxCards": 5
   },
   {
     "id": "business",
     "title": "Business",
     "subtitle": "Trending books among readers",
     "category": "business",
+    "layout": "grid5",
+    "cardVariant": "bestseller",
+    "maxCards": 5
+  },
+  {
+    "id": "self-help",
+    "title": "Self Help",
+    "subtitle": "Trending books among readers",
+    "category": "selfHelp",
     "layout": "scroll",
     "cardVariant": "compact"
   },
@@ -52,6 +65,15 @@
     "title": "Tech Books",
     "subtitle": "Trending books among readers",
     "category": "tech",
+    "layout": "grid5",
+    "cardVariant": "bestseller",
+    "maxCards": 5
+  },
+  {
+    "id": "kids",
+    "title": "Kids Books",
+    "subtitle": "Trending books among readers",
+    "category": "kids",
     "layout": "scroll",
     "cardVariant": "compact"
   },
@@ -60,7 +82,8 @@
     "title": "Classics",
     "subtitle": "Trending books among readers",
     "category": "classics",
-    "layout": "scroll",
-    "cardVariant": "compact"
+    "layout": "grid5",
+    "cardVariant": "bestseller",
+    "maxCards": 5
   }
 ]

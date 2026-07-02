@@ -1,7 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import PageShell from "@/components/layout/PageShell";
-import BookHero from "@/components/book/BookHero";
+import BookSidebar from "@/components/book/BookSidebar";
+import BookHeaderInfo from "@/components/book/BookHeaderInfo";
 import ProductDetails from "@/components/book/ProductDetails";
 import AuthorAbout from "@/components/book/AuthorAbout";
 import ReviewsSection from "@/components/book/ReviewsSection";
@@ -68,10 +69,20 @@ export default function BookPage({ params }: BookPageProps) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      <BookHero book={book} />
-      <ProductDetails book={book} />
-      {author && <AuthorAbout author={author} />}
-      <ReviewsSection reviews={reviews} />
+      <div className="grid grid-cols-1 gap-10 md:grid-cols-[280px_1fr] items-start mb-16">
+        {/* Left Column - Sticky Cover */}
+        <div className="md:sticky md:top-24">
+          <BookSidebar book={book} />
+        </div>
+
+        {/* Right Column - Content */}
+        <div className="flex flex-col gap-10">
+          <BookHeaderInfo book={book} />
+          <ProductDetails book={book} />
+          {author && <AuthorAbout author={author} />}
+          <ReviewsSection reviews={reviews} />
+        </div>
+      </div>
 
       <BookSection
         title="You might also like"
@@ -81,3 +92,4 @@ export default function BookPage({ params }: BookPageProps) {
     </PageShell>
   );
 }
+

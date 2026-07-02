@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import Sidebar from "./Sidebar";
 import TopBar from "./TopBar";
+import MobileNav from "./MobileNav";
 import type { BreadcrumbItem } from "@/types";
 
 interface PageShellProps {
@@ -19,8 +20,11 @@ export default function PageShell({
       <Sidebar />
       <div className="flex min-w-0 flex-1 flex-col">
         <TopBar showSearch={showSearch} breadcrumb={breadcrumb} />
-        <main className="flex-1 px-4 py-6 sm:px-6">{children}</main>
+        <main className="flex-1 px-3 py-4 pb-20 sm:px-4 sm:py-6 md:pb-6 lg:px-6">
+          {children}
+        </main>
       </div>
+      <MobileNav />
     </div>
   );
 }

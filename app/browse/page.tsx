@@ -26,13 +26,16 @@ export const metadata: Metadata = {
 // Layout recipe for the browse page: which section ids render before and
 // after the "Famous Authors" strip. Editing this array reorders the page
 // without touching any component.
-const SECTION_ORDER_BEFORE_AUTHORS = ["new-arrivals", "best-sellers"];
+const SECTION_ORDER_BEFORE_AUTHORS = ["new-arrivals"];
 const SECTION_ORDER_AFTER_AUTHORS = [
+  "best-sellers",
   "crime-fiction",
   "non-fiction",
+  "self-help",
   "academics",
   "business",
   "tech",
+  "kids",
   "classics",
 ];
 
@@ -57,6 +60,7 @@ export default function BrowsePage() {
         books={getBooksByCategory(section.category)}
         layout={section.layout}
         cardVariant={section.cardVariant}
+        maxCards={section.maxCards}
       />
     );
   };
@@ -70,13 +74,16 @@ export default function BrowsePage() {
 
       <RecommendedSection items={hero.recommended} />
 
+      {/* best-sellers renders first in AFTER list, right below Recommended */}
+      {SECTION_ORDER_AFTER_AUTHORS.slice(0, 1).map(renderSection)}
+
       <SpeakWithAuthorsSection books={speakWithAuthorsBooks} />
 
-      {SECTION_ORDER_AFTER_AUTHORS.slice(0, 2).map(renderSection)}
+      {SECTION_ORDER_AFTER_AUTHORS.slice(1, 3).map(renderSection)}
 
       <FamousAuthorsSection authors={famousAuthors} />
 
-      {SECTION_ORDER_AFTER_AUTHORS.slice(2).map(renderSection)}
+      {SECTION_ORDER_AFTER_AUTHORS.slice(3).map(renderSection)}
 
       <Footer />
     </PageShell>

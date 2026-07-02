@@ -1,7 +1,7 @@
 [
-  { "id": "people", "label": "People" },
-  { "id": "history", "label": "History" },
-  { "id": "politics", "label": "Politics" },
-  { "id": "kids", "label": "Kids" },
-  { "id": "education", "label": "Education" }
+  { "id": "people", "label": "People", "image": "/images/browser/people.png" },
+  { "id": "history", "label": "History", "image": "/images/browser/history.png" },
+  { "id": "politics", "label": "Politics", "image": "/images/browser/politics.png" },
+  { "id": "kids", "label": "Kids", "image": "/images/browser/kids.png" },
+  { "id": "education", "label": "Education", "image": "/images/browser/education.png" }
 ]

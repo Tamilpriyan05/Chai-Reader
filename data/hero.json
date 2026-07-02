@@ -4,20 +4,45 @@
     "title": "The Echo of our Silent Pages",
     "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
     "ctaLabel": "Explore More",
-    "image": "https://placehold.co/240x300/2b2440/ffffff?text=Book"
+    "image": "/images/browser/book.png",
+    "bgImage": "/images/browser/bookbg.png"
   },
   "recommended": [
     {
       "id": "rec-1",
       "title": "Recommended For You",
       "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
-      "image": "https://placehold.co/500x220/e07a5f/ffffff?text=Recommended"
+      "image": "https://placehold.co/700x280/e07a5f/ffffff?text=Recommended+1",
+      "books": [
+        { "id": "rb-1", "title": "Death before Breakfast", "cover": "/images/browser/newArrivals/death.png" },
+        { "id": "rb-2", "title": "Memory", "cover": "/images/browser/newArrivals/memory.png" },
+        { "id": "rb-3", "title": "Looking for La La", "cover": "/images/browser/newArrivals/haper.png" },
+        { "id": "rb-4", "title": "Harry Potter", "cover": "/images/browser/newArrivals/harrypotter.png" }
+      ]
     },
     {
       "id": "rec-2",
       "title": "Recommended For You",
       "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
-      "image": "https://placehold.co/500x220/3d5a80/ffffff?text=Recommended"
+      "image": "https://placehold.co/700x280/3d5a80/ffffff?text=Recommended+2",
+      "books": [
+        { "id": "rb-5", "title": "A Million to One", "cover": "/images/browser/bestSeller/million.png" },
+        { "id": "rb-6", "title": "The Richest Man", "cover": "/images/browser/bestSeller/richestman.png" },
+        { "id": "rb-7", "title": "I Know How This Story Ends", "cover": "/images/browser/bestSeller/storyend.png" },
+        { "id": "rb-8", "title": "Sherlock Holmes", "cover": "/images/browser/newArrivals/holmes.png" }
+      ]
+    },
+    {
+      "id": "rec-3",
+      "title": "Recommended For You",
+      "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
+      "image": "https://placehold.co/700x280/2d6a4f/ffffff?text=Recommended+3",
+      "books": [
+        { "id": "rb-9", "title": "Harry Potter", "cover": "/images/browser/newArrivals/harrypotter.png" },
+        { "id": "rb-10", "title": "Death before Breakfast", "cover": "/images/browser/newArrivals/death.png" },
+        { "id": "rb-11", "title": "A Million to One", "cover": "/images/browser/bestSeller/million.png" },
+        { "id": "rb-12", "title": "Memory", "cover": "/images/browser/newArrivals/memory.png" }
+      ]
     }
   ]
 }
