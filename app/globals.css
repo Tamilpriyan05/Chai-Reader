@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+  ------------------------------------------------------------------
+  THEME TOKENS
+  Every color used across the app is defined once, here, as an
+  "R G B" triplet (no commas) so Tailwind can apply opacity modifiers
+  like bg-primary/90. Change the palette for the whole product by
+  editing these values only.
+  ------------------------------------------------------------------
+*/
+:root {
+  --color-background: 255 255 255; /* page background */
+  --color-foreground: 23 23 23; /* default body text */
+
+  --color-sidebar: 253 246 224; /* cream sidebar background */
+  --color-sidebar-foreground: 82 74 60; /* sidebar nav text */
+  --color-sidebar-active: 17 17 17; /* active nav item text/icon */
+
+  --color-primary: 17 17 17; /* solid black buttons */
+  --color-primary-foreground: 255 255 255;
+
+  --color-accent: 37 99 235; /* blue links (author names) */
+  --color-accent-foreground: 255 255 255;
+
+  --color-muted: 107 114 128; /* secondary/gray text */
+  --color-muted-foreground: 156 163 175;
+
+  --color-border: 229 231 235;
+
+  --color-badge-bg: 219 234 254; /* light blue tag background */
+  --color-badge-foreground: 29 78 216;
+
+  --color-heading: 17 24 39;
+  --color-card: 255 255 255;
+}
+
+* {
+  border-color: rgb(var(--color-border));
+}
+
+body {
+  color: rgb(var(--color-foreground));
+  background: rgb(var(--color-background));
+}
+
+/* Hide scrollbars on horizontally-scrollable sections while keeping
+   the content scrollable (used by BookSection / carousels). */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

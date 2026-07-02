@@ -1,0 +1,7 @@
+[
+  { "id": "people", "label": "People" },
+  { "id": "history", "label": "History" },
+  { "id": "politics", "label": "Politics" },
+  { "id": "kids", "label": "Kids" },
+  { "id": "education", "label": "Education" }
+]

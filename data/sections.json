@@ -1,0 +1,66 @@
+[
+  {
+    "id": "new-arrivals",
+    "title": "New Arrivals",
+    "subtitle": "Trending books among readers",
+    "category": "newArrivals",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "best-sellers",
+    "title": "Our Best Sellers",
+    "subtitle": "Trending books among readers",
+    "category": "bestSellers",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "crime-fiction",
+    "title": "Crime Fiction",
+    "subtitle": "Trending books among readers",
+    "category": "crimeFiction",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "non-fiction",
+    "title": "Non Fiction Books",
+    "subtitle": "Trending books among readers",
+    "category": "nonFiction",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "academics",
+    "title": "Academics",
+    "subtitle": "Trending books among readers",
+    "category": "academics",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "business",
+    "title": "Business",
+    "subtitle": "Trending books among readers",
+    "category": "business",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "tech",
+    "title": "Tech Books",
+    "subtitle": "Trending books among readers",
+    "category": "tech",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  },
+  {
+    "id": "classics",
+    "title": "Classics",
+    "subtitle": "Trending books among readers",
+    "category": "classics",
+    "layout": "scroll",
+    "cardVariant": "compact"
+  }
+]

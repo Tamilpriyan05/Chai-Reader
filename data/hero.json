@@ -1,0 +1,23 @@
+{
+  "banner": {
+    "eyebrow": "",
+    "title": "The Echo of our Silent Pages",
+    "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
+    "ctaLabel": "Explore More",
+    "image": "https://placehold.co/240x300/2b2440/ffffff?text=Book"
+  },
+  "recommended": [
+    {
+      "id": "rec-1",
+      "title": "Recommended For You",
+      "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
+      "image": "https://placehold.co/500x220/e07a5f/ffffff?text=Recommended"
+    },
+    {
+      "id": "rec-2",
+      "title": "Recommended For You",
+      "description": "A global publishing technology pavilion designed to run alongside major international book fairs.",
+      "image": "https://placehold.co/500x220/3d5a80/ffffff?text=Recommended"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  { "id": "browse", "label": "Browse", "href": "/browse", "icon": "Compass" },
+  { "id": "new-arrivals", "label": "New Arrivals", "href": "/browse#new-arrivals", "icon": "Sparkles" },
+  { "id": "best-sellers", "label": "Best Sellers", "href": "/browse#best-sellers", "icon": "Award" },
+  { "id": "self-help", "label": "Self help", "href": "/browse#self-help", "icon": "HeartHandshake" },
+  { "id": "business", "label": "Business", "href": "/browse#business", "icon": "Briefcase" },
+  { "id": "tech", "label": "Tech", "href": "/browse#tech", "icon": "Laptop" },
+  { "id": "kids", "label": "Kids", "href": "/browse#kids", "icon": "Baby" },
+  { "id": "classics", "label": "Classics", "href": "/browse#classics", "icon": "GraduationCap" }
+]
